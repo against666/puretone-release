@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "0.3.0",
-  "downloadUrl": "https://gitee.com/chenhao215/pure-tone/releases/download/v0.3.0/puretone-0.3.0.apk",
-  "note": "首个对外发布版本：在线搜索下载（QQ音乐/网易云/酷狗/酷我）、播放模式、歌词设置、播放队列。",
+  "versionCode": 5,
+  "versionName": "0.3.1",
+  "downloadUrl": "https://gitee.com/chenhao215/pure-tone/releases/download/v0.3.1/puretone-0.3.1.apk",
+  "note": "修复：纯音乐下进度条拖动无响应；随机播放改为加权随机，不会重复刚播过的歌。",
   "apiKey": ""
 }
