@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "0.3.2",
-  "downloadUrl": "https://gitee.com/chenhao215/pure-tone/releases/download/v0.3.2/puretone-0.3.2.apk",
-  "note": "更新检查提速：新版本提示最长延迟从 6 小时降到 10 分钟。含 0.3.1 全部修复（进度条、加权随机）。",
+  "versionCode": 7,
+  "versionName": "0.3.3",
+  "downloadUrl": "https://gitee.com/chenhao215/pure-tone/releases/download/v0.3.3/puretone-0.3.3.apk",
+  "note": "更新提示改为每次打开应用都检查、有新版本就提示（不再只弹一次）。",
   "apiKey": ""
 }
