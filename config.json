@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "0.3.4",
-  "downloadUrl": "https://gitee.com/chenhao215/pure-tone/releases/download/v0.3.4/puretone-0.3.4.apk",
-  "note": "新增在线试听：搜索结果点整行即可试听，确认是要找的版本后再下载。",
+  "versionCode": 9,
+  "versionName": "0.3.5",
+  "downloadUrl": "https://gitee.com/chenhao215/pure-tone/releases/download/v0.3.5/puretone-0.3.5.apk",
+  "note": "试听体验完善：真实专辑封面、播放栏跟随当前声音、版权受限提示；下载可选音乐库或歌单；新增使用说明。",
   "apiKey": ""
 }
